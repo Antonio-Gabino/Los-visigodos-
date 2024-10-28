@@ -10,6 +10,6 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 2. Arquitectura
 3. Obras más significativas
 
-4. ## Referencias
+## Referencias
 
-5. [National Geographic España](https://www.nationalgeographic.com.es/)
+[National Geographic España](https://www.nationalgeographic.com.es/)
